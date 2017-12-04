@@ -1,0 +1,1 @@
+export let A = {e: 1};

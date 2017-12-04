@@ -1,0 +1,13 @@
+body,html{
+  margin: 0;
+}
+.main{
+  background-color: lightblue;
+  margin: 0 auto;
+  min-height: 200px;
+  width: 600px;
+  transition: all 0.4s;
+  display: flex;
+  flex-direction: column;
+}
+
